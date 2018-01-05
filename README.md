@@ -1,2 +1,2 @@
 # jumpStartJavaScript
-My "Jump Start JavaScript" code.
+Developing a task manager based on "Jump Start JavaScript" by Ara Pehlivanian and Don Nguyen.
